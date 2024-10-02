@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @masterez23
-- 👀 I’m interested in programming / softwar development / AI and ML / system coding
+- 👀 I’m interested in programming AI and ML
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on big teams
 - 📫 How to reach me /discorde is masterz23 /
