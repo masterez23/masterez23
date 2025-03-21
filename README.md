@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @masterez23
-- 👀 I’m interested in interested in anything about AI and Machine learning
-- 🌱 I’m currently learning ML 
-- 💞️ I’m looking to collaborate on big teams
+- 👀 I’m interested creating amazing indie games
+with unique features and amazing graphics 
+- 🌱 I’m currently learnin game development and Godot and art
+- 💞️ I’m looking to collaborate with artist and game developers, programmers 
 - 📫 How to reach me /discorde is masterz23 /
 
 
